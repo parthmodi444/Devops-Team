@@ -7,3 +7,73 @@
     color: blue;
     font-size: 20px;
 }
+
+.change_1 {
+    display: none;
+}
+
+.container_1:hover+.change_1 {
+    display: block;
+    color: blue;
+    font-size: 20px;
+}
+
+.change_2 {
+    display: none;
+}
+
+.container_2:hover+.change_2 {
+    display: block;
+    color: blue;
+    font-size: 20px;
+}
+
+.change_3 {
+    display: none;
+}
+
+.container_3:hover+.change_3 {
+    display: block;
+    color: blue;
+    font-size: 20px;
+}
+
+.change_4 {
+    display: none;
+}
+
+.container_4:hover+.change_4 {
+    display: block;
+    color: blue;
+    font-size: 20px;
+}
+
+.change_5 {
+    display: none;
+}
+
+.container_5:hover+.change_5 {
+    display: block;
+    color: blue;
+    font-size: 20px;
+}
+
+.change_6 {
+    display: none;
+}
+
+.container_6:hover+.change_6 {
+    display: block;
+    color: blue;
+    font-size: 20px;
+}
+
+.change_7 {
+    display: none;
+}
+
+.container_7:hover+.change_7 {
+    display: block;
+    color: blue;
+    font-size: 20px;
+}
