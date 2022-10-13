@@ -1,6 +1,4 @@
-body{
-  background-color: #f5bfee;
-}
+
 * {
 box-sizing: border-box;
 }
@@ -84,3 +82,24 @@ strong {
   color: white;
   
 }
+
+.right-line {
+  border-right: 5px rgb(121, 4, 105) solid;
+  height:2em
+  }
+  
+  .top-line {
+  border-top: 5px rgb(116, 8, 98) solid;
+  }
+  
+  .halved {
+  width: 50%;
+  float:left;
+  }
+  
+  .row{
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      font-size: 30px;
+  }
+  
+  
